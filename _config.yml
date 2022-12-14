@@ -7,7 +7,3 @@ plugins:
 title: ML Journal CLub
 description: Here to chat about ML
 
-classes: wide
-
-toc: true
-toc_label: Sessions
